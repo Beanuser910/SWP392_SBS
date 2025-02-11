@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1>hiiii, deploy thanh cong nha</h1>
+    <h1>hiiii, deploy thành công.</h1>
     </>
   )
 }
